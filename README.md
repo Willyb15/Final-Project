@@ -53,3 +53,8 @@ mkdir uploads
 //_www is the Apache User
 sudo chown _www uploads/
 ```
+####Go to Wordpress Plugin Page and download Magento
+####Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your 
+WordPress installation and then activate the Plugin from Plugins page. 
+####Activate Plugin, Go to Magento Tab in Admin Plugin Menu, Click API Settings
+
